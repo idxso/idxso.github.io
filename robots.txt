@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idxso.github.io/ekx/sitemap.ekx
