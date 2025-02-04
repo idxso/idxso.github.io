@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idxso.csgad.com/cvo/sitemap.xml.gz
